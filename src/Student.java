@@ -46,9 +46,5 @@ class StudentTest {
 
         System.out.println("Средняя арифметическая оценка студента" +  " " +  st3.surname +  " "  + st3.name + "=" +   (st3.averageGradeInMathematics + st3.averageGradeInEconomics + st3.averageGradeInForeignLanguages)/ 3);
 
-
-
-
-
     }
 }
